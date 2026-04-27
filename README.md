@@ -150,6 +150,10 @@ this&nbsp;book in their&nbsp;courses! For example:
 - As of 2025, Wang-Zhou Dai's research group is using
   *The Power of Prolog* in the [2025&nbsp;Summer&nbsp;Seminar](https://xinshuangz.github.io/2025_logic_program/)
   at Nanjing&nbsp;University in&nbsp;China.
+- As of 2026, François Bry is using *The Power of Prolog* in his
+  [Master Seminar: Programming
+  in&nbsp;Prolog](https://www.tcs.ifi.lmu.de/teaching/courses-ss-2026/programming-in-prolog)
+  at the Ludwig-Maximilians-Universität München in Germany.
 - I hope you are next!
 
 <pre>
